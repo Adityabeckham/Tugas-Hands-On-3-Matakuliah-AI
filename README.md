@@ -12,7 +12,7 @@ Proyek ini menganalisis dataset **Employee Attrition (Studi Kasus 5)** dengan to
 
 ## 📁 Struktur Pengumpulan
 Sesuai dengan ketentuan tugas, berikut berkas-berkas yang telah berhasil dihasilkan dan siap dikumpulkan:
-- `notebook.ipynb` : Notebook utama yang bersih dan dapat dijalankan berurutan tanpa error.
+- `Aditya_Beckham_Tugas_Hands_On_3.ipynb` : Notebook utama yang bersih dan dapat dijalankan berurutan tanpa error.
 - `data_bersih.csv` : Dataset hasil pembersihan, imputasi, dan mapping target.
 - `kamus_data.csv` : Penjelasan teknis mengenai tipe data, nilai unik, dan missing value setiap kolom.
 - `laporan_kualitas.csv` : Perbandingan kondisi kualitas data sebelum dan sesudah dibersihkan.
@@ -41,6 +41,6 @@ Sesuai dengan ketentuan tugas, berikut berkas-berkas yang telah berhasil dihasil
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn joblib
    ```
-2. Buka berkas `notebook.ipynb` pada Google Colab atau Jupyter.
+2. Buka berkas `Aditya_Beckham_Tugas_Hands_On_3.ipynb` pada Google Colab atau Jupyter.
 3. Masukkan dataset mentah `case5_employee_attrition.csv` ke dalam direktori kerja.
 4. Pilih menu **Runtime -> Run All** atau jalankan semua sel secara berurutan.
