@@ -1,0 +1,18 @@
+nama_kolom,tipe_data,n_missing,n_unik,keterangan
+employee_id,object,0,1200,Fitur kategorikal
+usia,float64,0,38,Fitur numerik
+jenis_kelamin,object,0,2,Fitur kategorikal
+departemen,object,0,5,Fitur kategorikal
+jabatan,object,0,17,Fitur kategorikal
+bidang_pendidikan,object,0,6,Fitur kategorikal
+lama_di_perusahaan_tahun,float64,0,21,Fitur numerik
+lama_di_jabatan_tahun,float64,0,13,Fitur numerik
+gaji_bulanan_idr,float64,0,1161,Fitur numerik
+lembur,object,0,2,Fitur kategorikal
+kepuasan_kerja,float64,0,4,Fitur numerik
+keseimbangan_hidup_kerja,float64,0,4,Fitur numerik
+kepuasan_lingkungan,float64,0,4,Fitur numerik
+jumlah_perusahaan_sebelumnya,float64,0,10,Fitur numerik
+pelatihan_tahun_ini,float64,0,7,Fitur numerik
+rating_performa,float64,0,4,Fitur numerik
+keluar_perusahaan,int64,0,2,Fitur numerik
