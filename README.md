@@ -3,7 +3,7 @@
 ### Mahasiswa
 - **Nama** : Aditya Beckham
 - **NIM**  : 24552011066
-- **Kelas**: TIF RP 24 B (24) & Kelas AI TIF RP 23 D
+- **Kelas**: TIF RP 24 B CID (24) & Kelas AI TIF RP 23 D
 
 ---
 
